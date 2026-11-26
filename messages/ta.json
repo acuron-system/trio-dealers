@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "brandName": "ட்ரையோ டீலர்ஸ்",
+    "brandTagline": "சில்லறை & மொத்த ஜவுளி சந்தை",
+    "home": "முகப்பு",
+    "catalog": "பட்டியல்",
+    "b2bDesk": "B2B பிரிவு",
+    "sellers": "விற்பனையாளர்கள்",
+    "deals": "சலுகைகள்",
+    "shops": "ஆலைகள்",
+    "heritage": "எங்களைப் பற்றி",
+    "search": "துணிகளைத் தேடு",
+    "wishlist": "விருப்பப்பட்டியல்",
+    "bag": "பை",
+    "signIn": "உள்நுழைக",
+    "b2bTrade": "B2B வர்த்தகம்",
+    "signOut": "வெளியேறு",
+    "myAccount": "என் கணக்கு & ஆர்டர்கள்"
+  },
+  "footer": {
+    "curatedWeaves": "வகைகள்",
+    "tradePortals": "வர்த்தக தளங்கள்",
+    "customerPolicies": "கொள்கைகள் & உதவி",
+    "headquarters": "தொடர்பு",
+    "viewAllCatalog": "முழு பட்டியலைப் பார்",
+    "merchantDeskOnline": "வர்த்தக & வாடிக்கையாளர் உதவி",
+    "whatsappCta": "வாட்ஸ்அப்பில் உரையாடு",
+    "rights": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
+    "compare": "துணிகள் ஒப்பீடு",
+    "contact": "உதவி மையம்"
+  },
+  "common": {
+    "loading": "ஏற்றுகிறது...",
+    "emptyCatalog": "அங்கீகரிக்கப்பட்ட துணிகள் இன்னும் சேர்க்கப்படவில்லை.",
+    "configureSettings": "Admin -> CMS & Settings இல் கடை அமைப்புகளை உள்ளமைக்கவும்.",
+    "currencySymbol": "₹",
+    "addToBag": "பையில் சேர்",
+    "outOfStock": "கையிருப்பு இல்லை",
+    "quickView": "துணியைப் பார்",
+    "save": "சேமி",
+    "cancel": "ரத்து செய்",
+    "searchPlaceholder": "துணி, நெசவு, SKU அல்லது ஆலையைத் தேடு..."
+  },
+  "auth": {
+    "signInTitle": "ட்ரையோ டீலர்ஸில் உள்நுழைக",
+    "forgotPassword": "கடவுச்சொல் மறந்ததா?",
+    "createAccount": "புதிய வாடிக்கையாளர் கணக்கு உருவாக்கு",
+    "b2bRegister": "B2B மொத்த வாங்குபவர் பதிவு",
+    "sellerRegister": "விற்பனை ஆலையாக இணையுங்கள்"
+  },
+  "checkout": {
+    "title": "பாதுகாப்பான செக்அவுட்",
+    "placeOrder": "ஆர்டரை உறுதி செய்",
+    "payRazorpay": "ஆன்லைன் கட்டணம் (UPI / கார்டு)",
+    "payCod": "டெலிவரிக்குப் பின் பணம் (COD)",
+    "payBank": "வங்கி பரிமாற்றம் (NEFT / RTGS / UPI)"
+  }
+}
+

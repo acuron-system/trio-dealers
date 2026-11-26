@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "brandName": "TRIO DEALERS",
+    "brandTagline": "Retail & Wholesale Cloth",
+    "home": "Home",
+    "catalog": "Catalog",
+    "b2bDesk": "B2B Desk",
+    "sellers": "Sellers",
+    "deals": "Deals",
+    "shops": "Mills",
+    "heritage": "About",
+    "search": "Search Fabrics",
+    "wishlist": "Wishlist",
+    "bag": "Bag",
+    "signIn": "Sign In",
+    "b2bTrade": "B2B Trade",
+    "signOut": "Sign Out",
+    "myAccount": "My Account & Orders"
+  },
+  "footer": {
+    "curatedWeaves": "Categories",
+    "tradePortals": "Trade Portals",
+    "customerPolicies": "Policies & Help",
+    "headquarters": "Contact",
+    "viewAllCatalog": "View Full Catalog",
+    "merchantDeskOnline": "Trade & Retail Support",
+    "whatsappCta": "Chat on WhatsApp",
+    "rights": "All rights reserved.",
+    "compare": "Compare Fabrics",
+    "contact": "Support Desk"
+  },
+  "common": {
+    "loading": "Loading...",
+    "emptyCatalog": "No approved fabrics listed yet.",
+    "configureSettings": "Configure store settings in Admin -> CMS & Settings.",
+    "currencySymbol": "₹",
+    "addToBag": "Add to Bag",
+    "outOfStock": "Out of Stock",
+    "quickView": "Inspect Fabric",
+    "save": "Save",
+    "cancel": "Cancel",
+    "searchPlaceholder": "Search fabrics, weaves, SKU, or mill..."
+  },
+  "auth": {
+    "signInTitle": "Sign in to Trio Dealers",
+    "forgotPassword": "Forgot password?",
+    "createAccount": "Create Customer Account",
+    "b2bRegister": "Register as B2B Buyer",
+    "sellerRegister": "Become a Seller Mill"
+  },
+  "checkout": {
+    "title": "Secure Checkout",
+    "placeOrder": "Confirm & Place Order",
+    "payRazorpay": "Pay Online (UPI / Cards / NetBanking)",
+    "payCod": "Cash on Delivery (COD)",
+    "payBank": "NEFT / RTGS / UPI Bank Transfer"
+  }
+}
+

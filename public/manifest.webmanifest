@@ -1,0 +1,25 @@
+{
+  "name": "Trio Dealers – Luxury Cloth Retail & Wholesale",
+  "short_name": "Trio Dealers",
+  "description": "Multi-vendor Indian cloth marketplace for retail shoppers, B2B buyers, seller mills, and logistics partners.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+

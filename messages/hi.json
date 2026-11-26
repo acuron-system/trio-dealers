@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "brandName": "ट्रायो डीलर्स",
+    "brandTagline": "रिटेल एवं थोक वस्त्र बाज़ार",
+    "home": "होम",
+    "catalog": "कैटलॉग",
+    "b2bDesk": "B2B डेस्क",
+    "sellers": "विक्रेता",
+    "deals": "ऑफ़र",
+    "shops": "मिल्स",
+    "heritage": "हमारे बारे में",
+    "search": "कपड़े खोजें",
+    "wishlist": "पसंदीदा",
+    "bag": "बैग",
+    "signIn": "साइन इन",
+    "b2bTrade": "B2B व्यापार",
+    "signOut": "साइन आउट",
+    "myAccount": "मेरा खाता और ऑर्डर"
+  },
+  "footer": {
+    "curatedWeaves": "श्रेणियाँ",
+    "tradePortals": "व्यापार पोर्टल",
+    "customerPolicies": "नीतियाँ एवं सहायता",
+    "headquarters": "संपर्क",
+    "viewAllCatalog": "पूरा कैटलॉग देखें",
+    "merchantDeskOnline": "व्यापार एवं ग्राहक सहायता",
+    "whatsappCta": "व्हाट्सऐप पर चैट करें",
+    "rights": "सर्वाधिकार सुरक्षित।",
+    "compare": "वस्त्र तुलना",
+    "contact": "सहायता डेस्क"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "emptyCatalog": "अभी कोई स्वीकृत वस्त्र उपलब्ध नहीं है।",
+    "configureSettings": "Admin -> CMS & Settings में स्टोर विवरण जोड़ें।",
+    "currencySymbol": "₹",
+    "addToBag": "बैग में जोड़ें",
+    "outOfStock": "स्टॉक समाप्त",
+    "quickView": "विवरण देखें",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "searchPlaceholder": "कपड़ा, बुनाई, SKU या मिल खोजें..."
+  },
+  "auth": {
+    "signInTitle": "ट्रायो डीलर्स में साइन इन करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "createAccount": "नया ग्राहक खाता बनाएं",
+    "b2bRegister": "B2B थोक खरीदार पंजीकरण",
+    "sellerRegister": "विक्रेता मिल के रूप में जुड़ें"
+  },
+  "checkout": {
+    "title": "सुरक्षित चेकआउट",
+    "placeOrder": "ऑर्डर कन्फर्म करें",
+    "payRazorpay": "ऑनलाइन भुगतान (UPI / कार्ड / नेटबैंकिंग)",
+    "payCod": "कैश ऑन डिलीवरी (COD)",
+    "payBank": "NEFT / RTGS / UPI बैंक ट्रांसफर"
+  }
+}
+
